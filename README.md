@@ -14,16 +14,16 @@ _This application is a clone of the [Converse.com](https://www.converse.com) lan
 ## Preview
 <p align="center">Original Site</p>
 <p align="center">
-  <img src="src/assets/img/org1.png" width="350" height="426" title="original site">
-  <img src="src/assets/img/org2.png" width="350" height="426" title="original site">
-  <img src="src/assets/img/org3.png" width="350" height="426" title="original site">
+  <img src="src/assets/img/org1.png" width="300" height="426" title="original site">
+  <img src="src/assets/img/org2.png" width="300" height="426" title="original site">
+  <img src="src/assets/img/org3.png" width="300" height="426" title="original site">
 </p>
 
 <p align="center">Rebuild</p>
 <p align="center">
-  <img src="src/assets/img/rebuilt1.png" width="350" height="426" title="rebuilt site">
-  <img src="src/assets/img/rebuilt2.png" width="350" height="426" title="rebuilt site">
-  <img src="src/assets/img/rebuilt3.png" width="350" height="426" title="rebuilt site">
+  <img src="src/assets/img/rebuilt1.png" width="300" height="426" title="rebuilt site">
+  <img src="src/assets/img/rebuilt2.png" width="300" height="426" title="rebuilt site">
+  <img src="src/assets/img/rebuilt3.png" width="300" height="426" title="rebuilt site">
 </p>
 
 ## Technologies Used
@@ -37,28 +37,34 @@ _This application is a clone of the [Converse.com](https://www.converse.com) lan
 
 ## Setup/Installation Requirements
 
-#### _To open and view this project file:_
-* Clone this GitHub repository https://github.com/randeelayosa/galactic-calculator.git to your Desktop.
-* To clone, open your Terminal, enter the command: `cd desktop` , enter the command: `git clone [paste link here]` and then press _Enter_.
-* In terminal, navigate to the cloned project file on your Desktop with `cd desktop/[project folder name]`.
-* Enter `atom .` if Atom is your preferred text editor. Or, open the folder in a Finder window, select the files you want to view, right click, and select the text editor of your preference.
+#### To open and view this project file:
+1. Clone this GitHub repository https://github.com/randeelayosa/galactic-calculator.git to your Desktop.
+* Install git onto your computer if it isn't already.
+* To clone the project down to your desktop, open your Terminal, and enter the following commands:
+  ```
+  cd desktop
+  git clone [paste link here]
+  cd desktop/[project folder name]
+  atom .
+  ```
+ _You can use another text editor if Atom is not your preferred program._
 
-#### _Running the server to view the live project_
+#### Running the server to view the live project
 Run `ng serve` in the project directory in Terminal. Go to `http://localhost:4200/` in the browser of your choice. _Note: The app will automatically reload if you change any of the source files._
 
-#### _Running unit tests_
+#### Running unit tests
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-#### _Running end-to-end tests_
+#### Running end-to-end tests
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-#### _Further help_
+#### Further help
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
 ## Planning
 
-1. **Configuration/Dependencies**
+**Configuration/Dependencies**
 
   | Configuration/Dependencies | Use |
 | :-------------     | :------------- |
@@ -73,7 +79,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 | UglifyJS-Webpack-Plugin | minifies code |
 | Webpack | bundles/compiles code |
 
-2. **Specs**
+**Specs**
 
   | Description | Input | Output |
 | :-------------     | :------------- | :------------- |
@@ -83,16 +89,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 | Program uses Firebase to mimic a generic Sign In feature | click on "Sign In" | modal prompt element pops up to create a user account |
 | Program uses Firebase to mimic a generic Shopping Cart feature | click on Shopping Cart icon | loads page depicting items the user has saved for purchase |
 
-3. **Integration**
+**Integration**
   * src folder: files responsible for UI code and backend functionality
   * Display: clone of the Converse landing page
   * Integrate Firebase to add Sign In and Shopping Cart functionality
 
-4. **UX/UI**
+**UX/UI**
   * Include and modify Sass
   * Incorporate photos, gifs, videos and icons the real Converse site uses
 
-5. **Polish**
+**Polish**
   * Delete unused dependencies in `package.json` and plugins in the config files
   * Ensure README includes all necessary language for instructions, bugs, and documentation
 
