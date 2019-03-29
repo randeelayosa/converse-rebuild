@@ -9,7 +9,22 @@
 
 ## Description
 
-_This application is a clone of the <a href="https://www.converse.com">Converse.com</a> landing page. It uses Angular to build the site's different components and Firebase as a database._
+_This application is a clone of the [Converse.com](https://www.converse.com) landing page. It uses Angular to build the site's different components and Firebase as a database._
+
+## Preview
+<p align="center">Original Site</p>
+<p align="center">
+  <img src="src/assets/img/org1.png" width="350" height="426" title="original site">
+  <img src="src/assets/img/org2.png" width="350" height="426" title="original site">
+  <img src="src/assets/img/org3.png" width="350" height="426" title="original site">
+</p>
+
+<p align="center">Rebuild</p>
+<p align="center">
+  <img src="src/assets/img/rebuilt1.png" width="350" height="426" title="rebuilt site">
+  <img src="src/assets/img/rebuilt2.png" width="350" height="426" title="rebuilt site">
+  <img src="src/assets/img/rebuilt3.png" width="350" height="426" title="rebuilt site">
+</p>
 
 ## Technologies Used
 
@@ -69,19 +84,20 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 | Program uses Firebase to mimic a generic Shopping Cart feature | click on Shopping Cart icon | loads page depicting items the user has saved for purchase |
 
 3. **Integration**
-  * src folder: `index.html`, `main.js`, `age.js`
-  * spec folder: `age-spec.js`, `jasmine.json`
-  * index.html: `<form>` `<input>`
-  * Display: input field for user's age and a submit button
-  * Integrate feature that calculates user's age, life expectancy, and remaining years in correspondence to other planets.
+  * src folder: files responsible for UI code and backend functionality
+  * Display: clone of the Converse landing page
+  * Integrate Firebase to add Sign In and Shopping Cart functionality
 
 4. **UX/UI**
   * Include and modify Sass
-  * Develop custom style - solar system/space theme
+  * Incorporate photos, gifs, videos and icons the real Converse site uses
 
 5. **Polish**
-  * Refactor testing specs and JS where applicable
-  * Delete unused dependencies in `package.json` and plugins in `webpack.config.js`
-  * Produce README that fulfills necessary guidelines and requirements
+  * Delete unused dependencies in `package.json` and plugins in the config files
+  * Ensure README includes all necessary language for instructions, bugs, and documentation
+
+### Legal
+
+*This software is licensed under MIT license.*
 
 Copyright (c) 2019 **_Randee Layosa_**
