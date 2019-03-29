@@ -12,18 +12,18 @@
 _This application is a clone of the [Converse.com](https://www.converse.com) landing page. It uses Angular to build the site's different components and Firebase as a database._
 
 ## Preview
-<p align="center">Original Site</p>
+<p align="center">My Rebuild</p>
 <p align="center">
-  <img src="src/assets/img/org1.png" width="300" height="426" title="original site">
-  <img src="src/assets/img/org2.png" width="300" height="426" title="original site">
-  <img src="src/assets/img/org3.png" width="300" height="426" title="original site">
+<img src="src/assets/img/rebuilt1.png" width="250" height="355" title="rebuilt site">
+<img src="src/assets/img/rebuilt2.png" width="250" height="355" title="rebuilt site">
+<img src="src/assets/img/rebuilt3.png" width="250" height="355" title="rebuilt site">
 </p>
 
-<p align="center">Rebuild</p>
+<p align="center">Original Site</p>
 <p align="center">
-  <img src="src/assets/img/rebuilt1.png" width="300" height="426" title="rebuilt site">
-  <img src="src/assets/img/rebuilt2.png" width="300" height="426" title="rebuilt site">
-  <img src="src/assets/img/rebuilt3.png" width="300" height="426" title="rebuilt site">
+  <img src="src/assets/img/org1.png" width="250" height="355" title="original site">
+  <img src="src/assets/img/org2.png" width="250" height="355" title="original site">
+  <img src="src/assets/img/org3.png" width="250" height="355" title="original site">
 </p>
 
 ## Technologies Used
