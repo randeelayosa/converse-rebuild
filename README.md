@@ -62,10 +62,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
   | Description | Input | Output |
 | :-------------     | :------------- | :------------- |
-| Program blocks non-numerical input | g | Invalid input |
-| Program disallows form submission if an input field is empty  | click button to Calculate | Field required |
-| Program returns user's age | Year born: 1999 | 20 |
-| Program calculates and returns user's age on Mercury | 20 | 83 |
+| Program has reusable components that are used throughout the site  | n/a | n/a |
+| Program will mimic the layout and build of Converse.com | localhost:4200 | identical look as you scroll to bottom of the page |
+| Program has click functionality that connects to other pages | click on "Shop Chuck 70" | loads Converse page for Chuck shoe styles in stock |
+| Program uses Firebase to mimic a generic Sign In feature | click on "Sign In" | modal prompt element pops up to create a user account |
+| Program uses Firebase to mimic a generic Shopping Cart feature | click on Shopping Cart icon | loads page depicting items the user has saved for purchase |
 
 3. **Integration**
   * src folder: `index.html`, `main.js`, `age.js`
