@@ -1,3 +1,18 @@
+*{
+  border: 1px solid red;
+}
+
+.navDiv{
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+}
+
+.tabDiv{
+  display: flex;
+  flex-direction: row;
+}
+
 #logo{
   width: 70px;
 }
