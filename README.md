@@ -14,16 +14,16 @@ _This application is a clone of the [Converse.com](https://www.converse.com) lan
 ## Preview
 <p align="center">My Rebuild</p>
 <p align="center">
-<img src="src/assets/img/rebuilt1.png" width="250" height="355" title="rebuilt site">
-<img src="src/assets/img/rebuilt2.png" width="250" height="355" title="rebuilt site">
-<img src="src/assets/img/rebuilt3.png" width="250" height="355" title="rebuilt site">
+<img src="src/assets/img/rebuilt1.png" width="250" height="265" title="rebuilt site">
+<img src="src/assets/img/rebuilt2.png" width="250" height="265" title="rebuilt site">
+<img src="src/assets/img/rebuilt3.png" width="250" height="265" title="rebuilt site">
 </p>
 
 <p align="center">Original Site</p>
 <p align="center">
-  <img src="src/assets/img/org1.png" width="250" height="355" title="original site">
-  <img src="src/assets/img/org2.png" width="250" height="355" title="original site">
-  <img src="src/assets/img/org3.png" width="250" height="355" title="original site">
+  <img src="src/assets/img/org1.png" width="250" height="265" title="original site">
+  <img src="src/assets/img/org2.png" width="250" height="265" title="original site">
+  <img src="src/assets/img/org3.png" width="250" height="265" title="original site">
 </p>
 
 ## Technologies Used
