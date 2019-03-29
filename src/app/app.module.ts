@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
-import { HomeComponent } from './home/home.component';
 import { NavComponent } from './nav/nav.component';
 import { ShippingComponent } from './shipping/shipping.component';
 import { TallSplitComponent } from './tall-split/tall-split.component';
@@ -18,7 +17,6 @@ import { NavBottomComponent } from './nav-bottom/nav-bottom.component';
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent,
     NavComponent,
     ShippingComponent,
     TallSplitComponent,
