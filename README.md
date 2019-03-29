@@ -79,15 +79,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 | UglifyJS-Webpack-Plugin | minifies code |
 | Webpack | bundles/compiles code |
 
-**Specs**
+**Component Layout**
 
-  | Description | Input | Output |
-| :-------------     | :------------- | :------------- |
-| Program has reusable components that are used throughout the site  | n/a | n/a |
-| Program will mimic the layout and build of Converse.com | localhost:4200 | identical look as you scroll to bottom of the page |
-| Program has click functionality that connects to other pages | click on "Shop Chuck 70" | loads Converse page for Chuck shoe styles in stock |
-| Program uses Firebase to mimic a generic Sign In feature | click on "Sign In" | modal prompt element pops up to create a user account |
-| Program uses Firebase to mimic a generic Shopping Cart feature | click on Shopping Cart icon | loads page depicting items the user has saved for purchase |
+<p align="center">
+  <img src="src/assets/img/components.jpeg" width="300" height="400" title="component model">
+</p>
 
 **Integration**
   * src folder: files responsible for UI code and backend functionality
