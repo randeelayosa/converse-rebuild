@@ -1,37 +1,3 @@
-# SiteRebuild
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-
-
-
-
-
-
 # Converse - Site Rebuild
 
 #### _Front End Development/JavaScript, Week 12 - Independent Project, 3.29.19_
@@ -52,7 +18,6 @@ _This application is a clone of the <a href="https://www.converse.com">Converse.
   * _Jasmine_
   * _Karma_
   * _Babel_
-  * _JavaScript (ES6)_
   * _Sass_
 
 ## Setup/Installation Requirements
@@ -63,9 +28,18 @@ _This application is a clone of the <a href="https://www.converse.com">Converse.
 * In terminal, navigate to the cloned project file on your Desktop with `cd desktop/[project folder name]`.
 * Enter `atom .` if Atom is your preferred text editor. Or, open the folder in a Finder window, select the files you want to view, right click, and select the text editor of your preference.
 
-#### _Installing Webpack_
-* To view this app file you must have npm installed on your computer. To do so, go into your home directory and follow the instructions in this link: <a href="https://www.learnhowtoprogram.com/user-interfaces/responsive-design-development-environments/module-bundling-with-webpack">_Webpack Installation Instructions_</a>.
-* If you already have npm installed on your computer, in the Terminal go into the project file and enter the commands `npm install`, and then `npm run start`.
+#### _Running the server to view the live project_
+Run `ng serve` in the project directory in Terminal. Go to `http://localhost:4200/` in the browser of your choice. _Note: The app will automatically reload if you change any of the source files._
+
+#### _Running unit tests_
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+#### _Running end-to-end tests_
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+#### _Further help_
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
 
 ## Planning
 
