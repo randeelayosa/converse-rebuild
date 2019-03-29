@@ -14,10 +14,10 @@ _This application is a clone of the <a href="https://www.converse.com">Converse.
 ## Technologies Used
 
   * _This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5._
+  * _Typescript_
   * _Webpack_
   * _Jasmine_
   * _Karma_
-  * _Babel_
   * _Sass_
 
 ## Setup/Installation Requirements
@@ -47,15 +47,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
   | Configuration/Dependencies | Use |
 | :-------------     | :------------- |
-| Babel-Core, Babel-Loader, Babel-preset-es2015 | compiles JavaScript for compatibility with different browsers |
+| Angular | framework |
 | Clean-Webpack-Plugin | clears project dist folder |
 | CSS-Loader, Style-Loader, Sass-Loader, Node-Sass | styling |
-| ESLint, ESLint-loader | JavaScript linter, checks code for errors |
-| File-Loader: image loader |
+| ESLint | JavaScript linter, checks code for errors |
+| File-Loader | image loader |
 | HTML-Webpack-Plugin | loads HTML file |
-| Jasmine, Jasmine-Core, Karma, Karma-Chrome-Launcher, Karma-CLI, Karma-Jasmine, Karma-Jasmine-HTML-Reporter, Karma-jQuery, Karma-Sourcemap-Loader, Karma-Webpack | for testing code |
+| Jasmine, Karma | for testing code |
+| Typescript | programming language |
 | UglifyJS-Webpack-Plugin | minifies code |
-| Webpack, Webpack-CLI, Webpack-Dev-Server | bundles/compiles code |
+| Webpack | bundles/compiles code |
 
 2. **Specs**
 
@@ -65,19 +66,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 | Program disallows form submission if an input field is empty  | click button to Calculate | Field required |
 | Program returns user's age | Year born: 1999 | 20 |
 | Program calculates and returns user's age on Mercury | 20 | 83 |
-| Program calculates and returns user's age on Venus | 20 | 32.5 |
-| Program calculates and returns user's age on Mars | 20 | 10.6 |
-| Program calculates and returns user's age on Jupiter | 20 | 1.68 |
-| Program determines and returns user's remaining life expectancy on Earth | 20 | 59 |
-| Program determines and returns user's remaining life expectancy on Mercury  | 83 | 245 |
-| Program determines and returns user's remaining life expectancy on Venus  | 32.5 | 95.9 |
-| Program determines and returns user's remaining life expectancy on Mars  | 10.6 | 31.4 |
-| Program determines and returns user's remaining life expectancy on Jupiter  | 1.68 | 4.97 |
-| Program returns the number of years the user has surpassed their life expectancy if they have already surpassed the average amount | (Earth) 80 | 1 |
-| Program returns the number of years the user has surpassed their life expectancy on Mercury | 80 | 4 |
-| Program returns the number of years the user has surpassed their life expectancy on Venus | 80 | 1.6 |
-| Program returns the number of years the user has surpassed their life expectancy on Mars | 80 | 0.5 |
-| Program returns the number of years the user has surpassed their life expectancy on Jupiter | 80 | 0.09 |
 
 3. **Integration**
   * src folder: `index.html`, `main.js`, `age.js`
