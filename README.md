@@ -3,10 +3,9 @@
 #### _Front End Development/JavaScript, Week 12 and 13 - Independent Project, 3.29.19-4.4.19_
 
 #### By _**Randee Layosa**_
-<p align="center">
+
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-</p>
 
 ## Description
 

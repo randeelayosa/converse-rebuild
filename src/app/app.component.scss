@@ -1,4 +1,6 @@
 .content-wrapper{
+  border: 1px solid red;
+
   display: flex;
   justify-content: center;
 }
@@ -31,7 +33,7 @@
   display: flex;
   width: 1440px;
   height: 50px;
-  background-color: white;
+  background-color: rgb(255,255,255);
   position: fixed;
   top: 68px;
   .tabs{
@@ -104,12 +106,43 @@
   }
 }
 
-// .content{
-//   border: 5px solid red;
-//   display: flex;
-//   justify-content: center;
-//   flex-direction: column;
-//   margin: auto;
-//   max-width: 1440px;
-//   width: 80%;
-// }
+
+footer{
+  border: 1px solid red;
+
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 704px;
+  position: absolute;
+  bottom: 0;
+  .lower-nav-holder{
+    border: 1px solid red;
+
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    width: 1440px;
+    height: 241px;
+    .email-list{
+      border: 1px solid red;
+
+      width: (100% / 4);
+    }
+    .social-media{
+      border: 1px solid red;
+      
+      width: (100% / 4);
+    }
+    .site-help{
+      border: 1px solid red;
+
+      width: (100% / 4);
+    }
+    .company-about{
+      border: 1px solid red;
+
+      width: (100% / 4);
+    }
+  }
+}
