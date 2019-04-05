@@ -88,12 +88,12 @@ _This application is a clone of the [Converse.com](https://www.converse.com) lan
 **Features Built and To Be Completed**
 - [x] Navigation bar
 - [ ] Body component with image boxes
-- [ ] Footer navigation bar
+- [x] Footer navigation bar
 - [ ] Dropdown sub-menu for each tab in the navigation bar
 - [ ] A market page of one of the shoe styles that has a router attached
 - [ ] Shopping cart feature that stores user's desired purchase
 - [ ] Authentication/Sign in feature to allow user's to make their purchase
-- [ ] Sass styling
+- [x] Sass styling
 - [ ] Program has a Firebase database established
 - [ ] Program is deployed
 
