@@ -1,11 +1,12 @@
 # Converse - Site Rebuild
 
-#### _Front End Development/JavaScript, Week 12 - Independent Project, 3.29.19_
+#### _Front End Development/JavaScript, Week 12 and 13 - Independent Project, 3.29.19-4.4.19_
 
 #### By _**Randee Layosa**_
-
+<p align="center">
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+</p>
 
 ## Description
 
@@ -47,19 +48,19 @@ _This application is a clone of the [Converse.com](https://www.converse.com) lan
   cd desktop/[project folder name]
   atom .
   ```
- _You can use another text editor if Atom is not your preferred program._
+ * _You can use another text editor if Atom is not your preferred program._
 
 #### Running the server to view the live project
-Run `ng serve` in the project directory in Terminal. Go to `http://localhost:4200/` in the browser of your choice. _Note: The app will automatically reload if you change any of the source files._
+* Run `ng serve` in the project directory in Terminal. Go to `http://localhost:4200/` in the browser of your choice. _Note: The app will automatically reload if you change any of the source files._
 
 #### Running unit tests
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 #### Running end-to-end tests
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+* Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 #### Further help
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
 ## Planning
@@ -84,6 +85,18 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <p align="center">
   <img src="src/assets/img/components.jpeg" width="300" height="400" title="component model">
 </p>
+
+**Features Built and To Be Completed**
+- [x] Navigation bar
+- [ ] Body component with image boxes
+- [ ] Footer navigation bar
+- [ ] Dropdown sub-menu for each tab in the navigation bar
+- [ ] A market page of one of the shoe styles that has a router attached
+- [ ] Shopping cart feature that stores user's desired purchase
+- [ ] Authentication/Sign in feature to allow user's to make their purchase
+- [ ] Sass styling
+- [ ] Program has a Firebase database established
+- [ ] Program is deployed
 
 **Integration**
   * src folder: files responsible for UI code and backend functionality
