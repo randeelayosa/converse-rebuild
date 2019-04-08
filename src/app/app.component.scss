@@ -104,6 +104,14 @@
   }
 }
 
+.drop-down{
+  position: fixed;
+  z-index: 900;
+  width: 60vw;
+  left: 0;
+  top: 68px;
+}
+
 .content{
   display: flex;
   top: 118px;
