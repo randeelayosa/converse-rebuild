@@ -87,7 +87,7 @@ _This application is a clone of the [Converse.com](https://www.converse.com) lan
 
 **Features Built and To Be Completed**
 - [x] Navigation bar
-- [ ] Body component with image boxes
+- [x] Body component with image boxes
 - [x] Footer navigation bar
 - [ ] Dropdown sub-menu for each tab in the navigation bar
 - [ ] A market page of one of the shoe styles that has a router attached

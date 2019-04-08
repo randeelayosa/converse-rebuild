@@ -1,6 +1,4 @@
 .content-wrapper{
-  border: 1px solid red;
-
   display: flex;
   justify-content: center;
   height: 100%;
@@ -107,9 +105,8 @@
 }
 
 .content{
-  border: 1px solid red;
   display: flex;
-  top: 120px;
+  top: 118px;
   position: absolute;
   width: 1440px;
 }
@@ -121,7 +118,7 @@ footer{
   height: 704px;
   border-top: 1px solid rgb(214,214,214);
   position: absolute;
-  bottom: 0;
+  top: 4550px;
 
   .returns{
     display: flex;
