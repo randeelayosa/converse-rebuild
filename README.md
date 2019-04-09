@@ -37,7 +37,7 @@ _This application is a clone of the [Converse.com](https://www.converse.com) lan
 ## Setup/Installation Requirements
 
 #### To open and view this project file:
-1. Clone this GitHub repository https://github.com/randeelayosa/galactic-calculator.git to your Desktop.
+1. Clone this GitHub repository https://github.com/randeelayosa/site-rebuild.git to your Desktop.
 * Install git onto your computer if it isn't already.
 * To clone the project down to your desktop, open your Terminal, and enter the following commands:
   ```
