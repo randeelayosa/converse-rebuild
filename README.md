@@ -14,9 +14,10 @@ _This application is a clone of the [Converse.com](https://www.converse.com) lan
 ## Preview
 <p align="center">My Rebuild</p>
 <p align="center">
-<img src="src/assets/img/rebuilt1.png" width="250" height="265" title="rebuilt site">
-<img src="src/assets/img/rebuilt2.png" width="250" height="265" title="rebuilt site">
-<img src="src/assets/img/rebuilt3.png" width="250" height="265" title="rebuilt site">
+<img src="src/assets/img/rebuild1.png" width="200" height="152" title="rebuild site">
+<img src="src/assets/img/rebuild2.png" width="200" height="152" title="rebuild site">
+<img src="src/assets/img/rebuild3.png" width="200" height="152" title="rebuild site">
+<img src="src/assets/img/rebuild4.png" width="200" height="152" title="rebuild site">
 </p>
 
 <p align="center">Original Site</p>
