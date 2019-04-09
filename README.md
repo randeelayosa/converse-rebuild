@@ -31,8 +31,6 @@ _This application is a clone of the [Converse.com](https://www.converse.com) lan
   * _This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5._
   * _Typescript_
   * _Webpack_
-  * _Jasmine_
-  * _Karma_
   * _Sass_
 
 ## Setup/Installation Requirements
