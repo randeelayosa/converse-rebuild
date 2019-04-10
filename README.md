@@ -32,24 +32,30 @@ _This application is a clone of the [Converse.com](https://www.converse.com) lan
   * _This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5._
   * _Typescript_
   * _Webpack_
+  * _Jasmine_
+  * _Karma_
   * _Sass_
 
 ## Setup/Installation Requirements
 
 #### To open and view this project file:
-1. Clone this GitHub repository https://github.com/randeelayosa/site-rebuild.git to your Desktop.
-* Install git onto your computer if it isn't already.
-* To clone the project down to your desktop, open your Terminal, and enter the following commands:
+1. Go to https://converse-rebuild.firebaseapp.com to view the live deployed app.
+2. Or, clone this GitHub repository https://github.com/randeelayosa/site-rebuild.git to your Desktop.
+  * Install git onto your computer if it isn't already.
+  * To clone the project down to your desktop, open your Terminal, and enter the following commands:
   ```
   cd desktop
   git clone [paste link here]
   cd desktop/[project folder name]
   atom .
+  npm install
   ```
- * _You can use another text editor if Atom is not your preferred program._
+  * _You can use another text editor if Atom is not your preferred program._
+  * _Make sure a "node_modules" and "dist" folder are created in your project file. If it hasn't, run `npm install` again._
+  * _You can then go to the link in step 1 above, or continue on to the following instructions to run the server._
 
 #### Running the server to view the live project
-* Run `ng serve` in the project directory in Terminal. Go to `http://localhost:4200/` in the browser of your choice. _Note: The app will automatically reload if you change any of the source files._
+* Run `ng serve` in the project directory in Terminal. Go to http://localhost:4200/ in the browser of your choice. _Note: The app will automatically reload if you change any of the source files._
 
 #### Running unit tests
 * Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
@@ -93,8 +99,8 @@ _This application is a clone of the [Converse.com](https://www.converse.com) lan
 - [ ] Shopping cart feature that stores user's desired purchase
 - [ ] Authentication/Sign in feature to allow user's to make their purchase
 - [x] Sass styling
-- [ ] Program has a Firebase database established
-- [ ] Program is deployed
+- [x] Program has a Firebase database established
+- [x] Program is deployed
 
 **Integration**
   * src folder: files responsible for UI code and backend functionality
